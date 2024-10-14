@@ -1,0 +1,19 @@
+{
+    "smoothies": [
+      {
+        "Name": "Strawberry Banana",
+        "Ingredients": ["Strawberries", "Banana", "Greek Yogurt", "Honey", "Almond Milk", "Avocado"],
+        "Recipe": "Blend 1 cup of strawberries, 1 banana, ½ cup of Greek yogurt, 1 tablespoon of honey, and 1 cup of almond milk. Blend until smooth."
+      },
+      {
+        "Name": "Green Detox",
+        "Ingredients": ["Spinach", "Kale", "Green Apple", "Cucumber", "Lemon Juice", "Coconut Water"],
+        "Recipe": "Combine 1 cup of spinach, 1 cup of kale, 1 green apple (cored and chopped), ½ cucumber, 1 tablespoon of lemon juice, and 1 cup of coconut water. Blend until smooth."
+      },
+      {
+        "Name": "Mango Pineapple",
+        "Ingredients": ["Mango", "Pineapple", "Orange Juice", "Coconut Milk", "Chia Seeds"],
+        "Recipe": "Blend 1 cup of mango, 1 cup of pineapple, 1 cup of orange juice, ½ cup of coconut milk, and 1 tablespoon of chia seeds. Blend until smooth and creamy."
+      }
+    ]
+  }
